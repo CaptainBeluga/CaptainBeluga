@@ -1,10 +1,7 @@
 <h1 align="center">Yo, i'm 😏👌 CaptainBeluga 👌😏</h1>
 <h3 align="center">dev 😏</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainbeluga&theme=dark#gh-dark-mode-only" alt="captainbeluga" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainbeluga&theme=onedark" alt="captainbeluga" /></a> </p>
 - 🔭 I’m currently working on [Astri](https://github.com/astros3x/Astri)
 
 - 👯 I’m collaborating with [Astros3x](https://github.com/astros3x)
