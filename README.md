@@ -1,4 +1,4 @@
-<h1 align="center">Yo, i'm CaptainBeluga</h1>
+<h1 align="center">Yo, i'm 😏👌 CaptainBeluga 👌😏</h1>
 <h3 align="center">dev 😏</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainbeluga&label=Profile%20views&color=0e75b6&style=flat" alt="captainbeluga" /> </p>
