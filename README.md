@@ -2,6 +2,7 @@
 <h3 align="center">dev 😏</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainbeluga&theme=onedark" alt="captainbeluga" /></a> </p>
+
 - 🔭 I’m currently working on [Astri](https://github.com/astros3x/Astri)
 
 - 👯 I’m collaborating with [Astros3x](https://github.com/astros3x)
