@@ -11,6 +11,12 @@
 
 - 👯 I’m collaborating with [Astros3x](https://github.com/astros3x)
 
+- 😊 [Wanna Smile](https://github.com/astros3x/wanna-smile)
+
+- 💎 [ASTRI VIP All_In_One](https://github.com/astros3x/astrivip-aio)
+
+- 🐔 [Astri Discord MiniNuker](https://github.com/astros3x/astrivip-aio](https://github.com/astros3x/astrimini-nuker/)
+
 <h3 align="left">Contact me:</h3>
 <p align="left">
    <a href="https://discord.com/invite/astros3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="astri" height="30" width="40" /></a>
