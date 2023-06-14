@@ -15,7 +15,7 @@
 
 - 💎 [ASTRI VIP All_In_One](https://github.com/astros3x/astrivip-aio)
 
-- 🐔 [Astri Discord MiniNuker](https://github.com/astros3x/astrivip-aio](https://github.com/astros3x/astrimini-nuker/)
+- 🐔 [Astri Discord MiniNuker](https://github.com/astros3x/astrimini-nuker/)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
