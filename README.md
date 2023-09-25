@@ -1,5 +1,4 @@
 <h1 align="center">Yo, i'm 😏👌 CaptainBeluga 👌😏</h1>
-<h3 align="center">dev 😏</h3>
 
 - 🔭 I’m currently working on [Astri](https://github.com/astros3x/Astri)
 
