@@ -4,7 +4,7 @@
 
 - 👯 I’m collaborating with [Astros3x](https://github.com/astros3x)
 
-- 😊 [Wanna Smile](https://github.com/astros3x/wanna-smile)
+- 😏 [CUSTOM RSA SYSTEM ](https://github.com/CaptainBeluga/cb_rsa)
 
 - 💎 [ASTRI VIP All_In_One](https://github.com/astros3x/astrivip-aio)
 
