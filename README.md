@@ -10,6 +10,8 @@
 
 - 🐔 [CRYSIS](https://github.com/astros3x/Crysis)
 
+- 🛏️ [WANNA SMILE](https://github.com/astros3x/wanna-smile)
+
 <h3 align="left">Contact me:</h3>
 <p align="left">
    <a href="https://discord.com/invite/astros3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="astri" height="30" width="40" /></a>
