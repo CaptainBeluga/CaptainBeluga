@@ -6,9 +6,9 @@
 
 - 😏 [CUSTOM RSA SYSTEM ](https://github.com/CaptainBeluga/cb_rsa)
 
-- 💎 [ASTRI VIP All_In_One](https://github.com/astros3x/astrivip-aio)
+- 💎 [ASTRI HIDER](https://github.com/astros3x/astri-hider)
 
-- 🐔 [Astri Discord MiniNuker](https://github.com/astros3x/astrimini-nuker/)
+- 🐔 [CRYSIS](https://github.com/astros3x/Crysis)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
