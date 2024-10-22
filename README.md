@@ -1,16 +1,20 @@
 <h1 align="center">Yo, i'm 😏👌 CaptainBeluga 👌😏</h1>
 
-- 🔭 I’m currently working on [Astri](https://github.com/astros3x/Astri)
+- 🔭 [ASTRI](https://github.com/astros3x/Astri)
 
-- 👯 I’m collaborating with [Astros3x](https://github.com/astros3x)
+- 👯 [meu irmão Astros3x](https://github.com/astros3x)
 
-- 😏 [CUSTOM RSA SYSTEM ](https://github.com/CaptainBeluga/cb_rsa)
+- 🍔 [MC MEUCCI] ???
+
+- 😏 [CUSTOM RSA SYSTEM](https://github.com/CaptainBeluga/cb_rsa)
 
 - 💎 [ASTRI HIDER](https://github.com/astros3x/astri-hider)
 
-- 🐔 [CRYSIS](https://github.com/astros3x/Crysis)
+- 🍸 [DRINK PLAZA](https://github.com/CaptainBeluga/drink-plaza)
 
-- 🛏️ [WANNA SMILE](https://github.com/astros3x/wanna-smile)
+- 💵 [FUFFA STAKE](https://github.com/CaptainBeluga/FuffaStake)
+
+- 🎰 [CB SLOT](https://github.com/CaptainBeluga/cb_slot/)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
