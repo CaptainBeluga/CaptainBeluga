@@ -4,7 +4,7 @@
 
 - 👯 [meu irmão Astros3x](https://github.com/astros3x)
 
-- 🍔 [MC MEUCCI](https://github.com/CaptainBeluga/mcmeucci)
+- 🍔 [MC MEUCCI](https://github.com/CaptainBeluga/McMeucci)
 
 - 😏 [CUSTOM RSA SYSTEM](https://github.com/CaptainBeluga/cb_rsa)
 
